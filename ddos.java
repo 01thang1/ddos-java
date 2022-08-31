@@ -11,7 +11,6 @@ public class Dos implements Runnable {
 
 
     private final String USER_AGENT =   "Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4";
-    private final String USER_AGENT =   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/7.1.7 Safari/537.85.16";
 
     private static int amount = 0;
     private static String url = "";
